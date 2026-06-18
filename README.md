@@ -1,6 +1,6 @@
-### Hi there 👋 I'm Chloe, a grad engineering student at Ecoles des Mines de St Etienne. 
+### Hi there 👋 I'm Chloe, a Data Engineer Intern !  
 
-👩‍💻 Engineering student at École des Mines de Saint-Étienne (ISMIN program), with a focus on electronics, embedded systems, and computer science:
+👩‍💻 Engineering student @ École des Mines de Saint-Étienne (ISMIN program), with a focus on electronics, embedded systems, and computer science:
 
 * Hardware Design: Experienced in SystemVerilog programming for digital circuit design and verification. Skilled in signal processing and PCB design for custom hardware solutions.
 * Embedded Systems: Proficient in C/C++ for microcontroller programming, real-time systems development, and IoT applications. Knowledgeable in designing low-level software that interacts with hardware.
